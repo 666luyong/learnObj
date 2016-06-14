@@ -1,0 +1,85 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		32698A651D10214700B3B845 /* gnustep-base-1.24.9.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = "gnustep-base-1.24.9.xcodeproj"; path = "gnustep-base-1.24.9/gnustep-base-1.24.9.xcodeproj"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		32698A251D10213100B3B845 = {
+			isa = PBXGroup;
+			children = (
+				32698A651D10214700B3B845 /* gnustep-base-1.24.9.xcodeproj */,
+			);
+			sourceTree = "<group>";
+		};
+		32698A661D10214700B3B845 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		32698A261D10213100B3B845 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+			};
+			buildConfigurationList = 32698A291D10213100B3B845 /* Build configuration list for PBXProject "GNUStep" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 32698A251D10213100B3B845;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 32698A661D10214700B3B845 /* Products */;
+					ProjectRef = 32698A651D10214700B3B845 /* gnustep-base-1.24.9.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		32698A2A1D10213100B3B845 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		32698A2B1D10213100B3B845 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		32698A291D10213100B3B845 /* Build configuration list for PBXProject "GNUStep" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				32698A2A1D10213100B3B845 /* Debug */,
+				32698A2B1D10213100B3B845 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 32698A261D10213100B3B845 /* Project object */;
+}
